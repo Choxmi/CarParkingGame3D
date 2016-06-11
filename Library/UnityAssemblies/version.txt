@@ -1,0 +1,21 @@
+5.3.1f1:2.1.0.0
+Android
+D:/Software/Installed/Unity 5.1/Unity/Editor/Data/Managed/UnityEngine.dll
+D:/Software/Installed/Unity 5.1/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/Software/Installed/Unity 5.1/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/Software/Installed/Unity 5.1/Unity/Editor/Data/Managed/UnityEditor.dll
+D:/Software/Installed/Unity 5.1/Unity/Editor/Data\Managed/Mono.Cecil.dll
+D:/Software/Installed/Unity 5.1/Unity/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
+D:/Software/Installed/Unity 5.1/Unity/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll
+D:/Software/Installed/Unity 5.1/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll
+D:/Software/Installed/Unity 5.1/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll
+D:/Software/Installed/Unity 5.1/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll
+D:/Software/Installed/Unity 5.1/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+D:/Software/Installed/Unity 5.1/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+D:/Software/Installed/Unity 5.1/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll
+D:/Software/Installed/Unity 5.1/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll
+D:/Software/Installed/Unity 5.1/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+D:/Software/Installed/Unity 5.1/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+D:/Software/Installed/Unity 5.1/Unity/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.Metro.Extensions.dll
+D:/Software/Installed/Unity 5.1/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
